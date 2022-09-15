@@ -1,9 +1,8 @@
 /**
- * @file csim.c
+ * @file cache_simulator.c
  *
- * @brief Implementation of a cache simulator.
- *        Part A of the cache lab, 18-213 M22.
- *        The simulator is implemented with doubly linked list to
+ * @brief Implementation of a cache simulator. The simulator is implemented 
+ *        with doubly linked list to keep track of the LRU.
  * @author Wenqi Deng <wenqid@andrew.cmu.edu>
  */
 
